@@ -1,0 +1,40 @@
+Ankara is the capital of Turkey
+True
+Uludag is the highest mountain Turkey
+False
+1 kg cotton is heavier than 1kg iron
+False
+Dubai is home to the tallest man made structure ever built
+True
+The Atlantic Ocean is the biggest ocean on Earth
+False
+Venus is the closest planet to the Sun
+False
+Mount Everest is the tallest mountain in the world
+True
+Spiders have six legs
+False
+The human skeleton is made up of less than 100 bones
+False
+3 + 4 = 7
+True
+More than half the world’s people live in Asia
+True
+In India you can marry your dog
+True
+The country Chile is very rich because it has a lot of oil
+False
+English, Arabic and French are the only languages spoken in Africa
+False
+A body of land completely surrounded by water is an island
+True
+Australia is in the Europe
+False
+Helsinki is the capital of Germany
+False
+By area, Alaska is the biggest state in the USA
+True
+Java is the first programming language
+False
+Turing award is an annual prize given by UNESCO
+False
